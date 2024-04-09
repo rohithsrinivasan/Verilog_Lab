@@ -1,2 +1,2 @@
-# counter
-Binary 4 bit, Syn and Asyn
+Example files in  Verilog (Xilinx Vivado)
+Counters, fifo and more
