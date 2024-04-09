@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_piso/codd_piso.srcs/sources_1/new/piso.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module piso
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_piso/codd_piso.srcs/sim_1/new/piso_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module piso_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_piso/codd_piso.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

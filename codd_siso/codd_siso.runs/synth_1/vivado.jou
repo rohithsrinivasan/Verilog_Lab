@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Jul 13 09:13:15 2023
+# Process ID: 27036
+# Current directory: D:/Udemy Courses/codd_siso/codd_siso.runs/synth_1
+# Command line: vivado.exe -log siso.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source siso.tcl
+# Log file: D:/Udemy Courses/codd_siso/codd_siso.runs/synth_1/siso.vds
+# Journal file: D:/Udemy Courses/codd_siso/codd_siso.runs/synth_1\vivado.jou
+# Running On: DESKTOP-BEKTHPT, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16988 MB
+#-----------------------------------------------------------
+source siso.tcl -notrace

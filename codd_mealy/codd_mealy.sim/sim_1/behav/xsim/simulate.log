@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+Output z: x, w: x
+$finish called at time : 155 ns : File "D:/Udemy Courses/codd_mealy/codd_mealy.srcs/sim_1/new/mealy_machine_tb.v" Line 63

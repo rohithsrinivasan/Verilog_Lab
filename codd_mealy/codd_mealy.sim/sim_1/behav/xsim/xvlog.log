@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_mealy/codd_mealy.srcs/sources_1/new/mealy.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_machine
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'z' is not allowed [D:/Udemy Courses/codd_mealy/codd_mealy.srcs/sources_1/new/mealy.v:37]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'w' is not allowed [D:/Udemy Courses/codd_mealy/codd_mealy.srcs/sources_1/new/mealy.v:38]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_mealy/codd_mealy.srcs/sim_1/new/mealy_machine_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mealy_machine_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_mealy/codd_mealy.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

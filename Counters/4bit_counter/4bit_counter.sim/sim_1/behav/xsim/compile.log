@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/CODD Lab/4bit_counter/4bit_counter.srcs/sources_1/new/binary_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BinaryCounter
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'count' is not allowed [D:/Udemy Courses/CODD Lab/4bit_counter/4bit_counter.srcs/sources_1/new/binary_counter.v:8]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/CODD Lab/4bit_counter/4bit_counter.srcs/sim_1/new/BinaryCounter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BinaryCounter_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/CODD Lab/4bit_counter/4bit_counter.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

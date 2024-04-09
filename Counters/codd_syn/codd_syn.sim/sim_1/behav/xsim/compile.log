@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_syn/codd_syn.srcs/sources_1/new/syn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module synchronous_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_syn/codd_syn.srcs/sim_1/new/syn_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module synchronous_counter_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_syn/codd_syn.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

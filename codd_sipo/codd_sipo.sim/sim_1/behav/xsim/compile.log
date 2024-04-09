@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_sipo/codd_sipo.srcs/sources_1/new/sipo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sipo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_sipo/codd_sipo.srcs/sim_1/new/sipo_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sipo_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Udemy Courses/codd_sipo/codd_sipo.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

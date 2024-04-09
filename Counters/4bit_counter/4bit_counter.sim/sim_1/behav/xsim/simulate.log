@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time	Count
+                  10	0000
+                  15	0001
+                  25	0010
+                  35	0011
+                  45	0100
+                  55	0101
+$finish called at time : 60 ns : File "D:/Udemy Courses/CODD Lab/4bit_counter/4bit_counter.srcs/sim_1/new/BinaryCounter_tb.v" Line 58
